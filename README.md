@@ -1,6 +1,4 @@
 # Organic Market Basket Analysis
-![image](https://github.com/sclarkHOU/Capstone/assets/56837718/d3657590-160b-46bb-bf26-f7a5f2e23f94)
-
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/c5b6605e-e28a-4f2a-b185-0f44366785c5)
 
 
