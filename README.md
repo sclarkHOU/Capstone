@@ -1,6 +1,9 @@
 # Organic Market Basket Analysis
 ![image](https://github.com/sclarkHOU/Capstone/assets/56837718/d3657590-160b-46bb-bf26-f7a5f2e23f94)
 
+![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/6d694181-2c69-4bcf-9524-40a18390e0f4)
+
+
 ## Business Overview
 The organic grocery market is experiencing rapid growth, driven by increasing consumer awareness of health and sustainability. Today the global Organic food market is worth $176 billion and is estimated to grow at a CAGR of 12.1%, earning revenue of around $553 billion by the end of 2033.
 
