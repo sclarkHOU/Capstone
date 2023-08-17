@@ -12,7 +12,7 @@ The dataset comes from 3 million grocery orders from more than 200,000 Instacart
 - 190,000 users who have purchased Organic products
 - 2.3 million orders containing Organic products
 - 
-** **
+***
 ## Data Analysis
 Organic Produce Fresh Products dominate carts. By making sure to have the produce department stocked increase the probability of reorders
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/aa3194e6-2df6-4026-b519-6345c0efdf48)
