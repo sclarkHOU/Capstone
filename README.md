@@ -11,7 +11,8 @@ The dataset comes from 3 million grocery orders from more than 200,000 Instacart
 - 5000 Organic products
 - 190,000 users who have purchased Organic products
 - 2.3 million orders containing Organic products
-
+- 
+** **
 ## Data Analysis
 Organic Produce Fresh Products dominate carts. By making sure to have the produce department stocked increase the probability of reorders
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/aa3194e6-2df6-4026-b519-6345c0efdf48)
@@ -24,11 +25,13 @@ While only account for 32% of the products in the dataset it had a 69% reorder r
 Lastly, the longer a customer spent looking for and adding items to their cart the chance of reorders dropped. Producted recommendations early into the shopping experience is key
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/f5cc5bd4-4d1c-4f53-a8d7-22494940a8a7)
 
+** **
 ## Apriori & Association Rules
 The primary objective of utilizing the Apriori algorithm and association rules was to unravel hidden relationships between products and to gain insights into customer purchasing behavior and understand which products tend to be bought together. This approach allows GreenGrocer to offer a seamless and personalized shopping experience to our online customers. By deciphering the relationships between organic products often chosen together, we can provide tailored product recommendations and enhance the virtual shopping journey. These insights not only allow us to tailor recommendations but also deepened our comprehension of our customers' organic preferences, solidifying our commitment to delivering quality and convenience.
 
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/1c743d7d-ef17-4152-8030-9c9bbf93071e)
 
+** **
 ## Modeling
 The Instacart dataset contains historical order information, including product details, user behavior, and order characteristics. Our goal is to use a predictive model to analyze which features influence a customer's likelihood to reorder organic products. By examining the model's coefficients, we can gain insights into which features have the most significant impact on the prediction.
 
@@ -49,6 +52,7 @@ The Instacart dataset contains historical order information, including product d
 - **Logistic Regression**
   F1-Score = **0.82**
 
+** **
 ## Conclusions
 Based on the analysis here are actionable recommendations:
 
@@ -72,6 +76,7 @@ Based on the analysis here are actionable recommendations:
 
 In conclusion, by implementing these recommendations, GreenGrocer can enhance customer satisfaction, increase customer retention, and drive higher reorder rates, ultimately leading to improved business performance and growth.
 
+** **
 ## Future Steps
 - Collect more data on Organic products and shoppers.
 - Use Apriori and Association rule results to build a recommendation system.
@@ -79,11 +84,13 @@ In conclusion, by implementing these recommendations, GreenGrocer can enhance cu
 - Apply Deep Learning models to extract better insights from the data.
 - Continuously monitor the impact of these recommendations and Use A/B testing to evaluate the effectiveness of the different strategies.
 
+** **
 ## For More Information
 If you have any questions, please contact me:
 - **Email:** stuartclark281@gmail.com
 - **Linkedin:** https://www.linkedin.com/in/stuart-clark-185034123/
 
+** **
 ### Repository Contents
 ├── data
 
