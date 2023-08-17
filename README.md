@@ -30,6 +30,8 @@ The primary objective of utilizing the Apriori algorithm and association rules w
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/1c743d7d-ef17-4152-8030-9c9bbf93071e)
 
 ## Modeling
+The Instacart dataset contains historical order information, including product details, user behavior, and order characteristics. Our goal is to use a predictive model to analyze which features influence a customer's likelihood to reorder organic products. By examining the model's coefficients, we can gain insights into which features have the most significant impact on the prediction.
+
 - **Decision Tree**
   - F1-score = **0.81**
 - **XGBoostClassifier**
