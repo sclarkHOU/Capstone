@@ -89,12 +89,12 @@ If you have any questions, please contact me:
 
 ├── images
 
-├── README.md
+├── Association_Rules.ipynb
 
-├── Organic Market Basket Analysis.ipynb
+├── Final_Model.ipynb
 
-├── Model.ipynb
+├── Organic_Market_Basket_Analysis.ipynb
 
-├── Association_Rule.ipynb
+├── Organic_Market_Basket_Analysis.pdf
 
-├── 
+├── README.m
