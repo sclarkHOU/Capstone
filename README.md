@@ -19,7 +19,7 @@ Organic Produce Fresh Products dominate carts. By making sure to have the produc
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/07c16a2e-ce9a-40f8-9cca-975da03e7c93)
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/9e85a1b6-3b2c-4cec-b53b-98baaf7d76a6)
 
-While only account for 32% of the products in the dataset it had a 67% reorder rate
+While only account for 32% of the products in the dataset it had a 69% reorder rate
 
 Lastly, the longer a customer spent looking for and adding items to their cart the chance of reorders dropped. Producted recommendations early into the shopping experience is key
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/f5cc5bd4-4d1c-4f53-a8d7-22494940a8a7)
@@ -93,6 +93,6 @@ If you have any questions, please contact me:
 
 ├── Model.ipynb
 
-├── Association Rule/Aprior Model.ipynb
+├── Association_Rule.ipynb
 
 ├── 
