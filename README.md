@@ -11,7 +11,7 @@ The dataset comes from 3 million grocery orders from more than 200,000 Instacart
 - 5000 Organic products
 - 190,000 users who have purchased Organic products
 - 2.3 million orders containing Organic products
-- 
+  
 ***
 ## Data Analysis
 Organic Produce Fresh Products dominate carts. By making sure to have the produce department stocked increase the probability of reorders
@@ -41,7 +41,7 @@ The Instacart dataset contains historical order information, including product d
   - Final Model
   - F1-Score = **0.84**
 
-    I took the top 10 feature importances from my XGBoost Model and ran them into a Logistic Regression to gain insights from the features
+    I took the top feature importances from my XGBoost Model and ran them into a Logistic Regression to gain insights from the features
 
 - **Logistic Regression**
   F1-Score = **0.82**
