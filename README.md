@@ -94,8 +94,8 @@ If you have any questions, please contact me:
 
 ├── Final_Model.ipynb
 
-├── Organic_Market_Basket_Analysis.ipynb
-
 ├── Organic_Market_Basket_Analysis.pdf
+
+├── Organic_Market_Basket_Analysis.ipynb
 
 ├── README.m
