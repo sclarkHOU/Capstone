@@ -40,14 +40,8 @@ The Instacart dataset contains historical order information, including product d
 - **XGBoostClassifier**
   - Final Model
   - F1-Score = **0.84**
-  - AUC-PR: **0.89**
-    - The Dataset was highly imbalanced so to validate performance I looked at the Precision-Recall Curve. The AUC-PR score of 89% indicates that our XGB model is effective at identifying reorders by customers. It strikes a balance between correctly identifying reorders and avoiding misclassification.
-      
- ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/3bea1691-8710-477a-9d0b-a20fe228d163)
- 
-  - Feature Importance
-    
-    We took those feature importances from our XGBoost Model and ran them into a Logistic Regression to gain insights from the features
+
+    I took the top 10 feature importances from my XGBoost Model and ran them into a Logistic Regression to gain insights from the features
 
 - **Logistic Regression**
   F1-Score = **0.82**
