@@ -50,33 +50,25 @@ The Instacart dataset contains historical order information, including product d
 ## Conclusions
 Based on the analysis here are actionable recommendations:
 
-**1. Promote Organic Produce:**
-- Targeted marketing campaigns on organic products
-- Highlight the benefits of organic items to attract and retain customers
+**1. Promotions & Marketing:**
+- Targeted marketing campaigns on Organic produce
   
 **2. Encourage Frequent Purchases:**
-- Implement Loyalty programs & Subscription options
-- Personalize recommendations based on purchase history/frequent purchases
+- Personalize recommendations based on purchase history, frequent purchases, and similar products purchased by other customers
   
-**3. Leverage Basket Size:**
-- Implement strategies to encourage customers to add more items to carts 
-- Bundle related products
-- Special deals for bulk purchases
-  
+**3. Customer Retention:**
+- Offer Subscription and/or Loyalty Rewards programs
+
 **4. Enhance Product Placement:**
-- Products added later to the cart have a lower chance of being reordered. Explore ways to streamline the add-to-cart process and ensure that customers find what they need quickly
-- Optimize the user interface for easier shopping
-- Implement "quick add" or one-click reordering features
+- Implement "quick add" or one-click reordering features for faster checkout
 
 In conclusion, by implementing these recommendations, GreenGrocer can enhance customer satisfaction, increase customer retention, and drive higher reorder rates, ultimately leading to improved business performance and growth.
 
 ** **
 ## Future Steps
-- Collect more data on Organic products and shoppers.
 - Use Apriori and Association rule results to build a recommendation system.
 - With the right computational resources I would like to explore alternative ways to handle class imbalance and engineer more features.
 - Apply Deep Learning models to extract better insights from the data.
-- Continuously monitor the impact of these recommendations and Use A/B testing to evaluate the effectiveness of the different strategies.
 
 ** **
 ## For More Information
