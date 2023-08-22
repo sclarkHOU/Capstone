@@ -21,8 +21,8 @@ Organic Produce Fresh Products dominate carts. By making sure to have the produc
 
 While organic items only account for 32% of the products in the dataset it had a 69% reorder rate
 
-![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/07c16a2e-ce9a-40f8-9cca-975da03e7c93)
-![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/9e85a1b6-3b2c-4cec-b53b-98baaf7d76a6)
+![image](https://github.com/sclarkHOU/Organic-Market-Basket-Analysis/assets/56837718/89e7a0b2-0e77-4f5c-8cff-ca6cacf66e86)
+
 
 Lastly, Products that are added to the cart initially are more likely to be reordered again compared to the ones added later. Customers tend to first order all the products they buy frequently and then look out for the new products available.
 
