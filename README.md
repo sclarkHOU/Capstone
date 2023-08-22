@@ -1,6 +1,6 @@
 <h1 align="center">  Organic Market Basket Analysis </h1>
 
-  ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/c5b6605e-e28a-4f2a-b185-0f44366785c5)
+![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/c5b6605e-e28a-4f2a-b185-0f44366785c5)
 
 ## Business Overview
 The organic grocery market is experiencing rapid growth, driven by increasing consumer awareness of health and sustainability. Today the global Organic food market is worth $176 billion and is estimated to grow at a CAGR of 12.1%, earning revenue of around $553 billion by the end of 2033.
@@ -15,15 +15,16 @@ The dataset comes from 3 million grocery orders from more than 200,000 Instacart
   
 ***
 ## Data Analysis
-Organic Produce Fresh Products dominate carts. By making sure to have the produce department stocked increase the probability of reorders
 
-![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/738c6a17-78d5-481b-8d2e-15fec0beee01)
-
-While organic items only account for 32% of the products in the dataset it had a 69% reorder rate
+#### While organic items only account for 32% of the products in the dataset it had a 69% reorder rate.
 
 ![image](https://github.com/sclarkHOU/Organic-Market-Basket-Analysis/assets/56837718/e2bffc22-94df-4fcb-a8fd-55f3170ecd68)
 
-Lastly, Products that are added to the cart initially are more likely to be reordered again compared to the ones added later. Customers tend to first order all the products they buy frequently and then look out for the new products available.
+#### Organic Produce Fresh Products dominate carts. By making sure to have the produce department stocked increase the probability of reorders.
+
+![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/738c6a17-78d5-481b-8d2e-15fec0beee01)
+
+#### Lastly, Products that are added to the cart initially are more likely to be reordered again compared to the ones added later. Customers tend to first order all the products they buy frequently and then look out for the new products available.
 
 ![image](https://github.com/sclarkHOU/Organic-Market-Basket-Analysis/assets/56837718/0d080a01-c2a3-431f-862e-26be75ee2ac9)
 
