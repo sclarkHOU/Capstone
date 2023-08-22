@@ -47,15 +47,15 @@ In a pursuit to find a balance between these two instances I used an F1-Score as
 
 - **Decision Tree**
   - Basline Model
-  - F1-score = **0.81**
+  - F1-score = **81%**
     
 - **XGBoostClassifier**
   - Final Model
-  - F1-Score = **0.84**
+  - F1-Score = **84%**
 
 - **Logistic Regression**
   - Interpret feature importances
-  - F1-Score = **0.82**
+  - F1-Score = **82%**
 
 ** **
 ## Conclusions
