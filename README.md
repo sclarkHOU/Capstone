@@ -4,7 +4,7 @@
 ## Business Overview
 The organic grocery market is experiencing rapid growth, driven by increasing consumer awareness of health and sustainability. Today the global Organic food market is worth $176 billion and is estimated to grow at a CAGR of 12.1%, earning revenue of around $553 billion by the end of 2033.
 
-With the demand for organic products and online shopping on the rise, GreenGrocer wants to strategically position itself to tap into this expanding market by introducing an Organic Grocery Delivery Service.GreenGrocer wants to continue to elevate the customer experience, I have been tasked with finding key factors for predicting customer reorders to optimize marketing strategies and identify frequently purchased items for improved product recommendations and cross-selling opportunities for GreenGrocer. 
+With the demand for organic products and online shopping on the rise, GreenGrocer wants to strategically position itself to tap into this expanding market by introducing an Organic Grocery Delivery Service. GreenGrocer wants to continue to elevate the customer experience, I have been tasked with finding key factors for predicting customer reorders to optimize marketing strategies and identify frequently purchased items for improved product recommendations and cross-selling opportunities for GreenGrocer. 
 
 ## Data Overview
 The dataset comes from 3 million grocery orders from more than 200,000 Instacart users. The data was filtered down to only focus on Organic Products. The dataset includes information on the following:
@@ -29,7 +29,7 @@ Lastly, Products that are added to the cart initially are more likely to be reor
 
 ** **
 ## Apriori & Association Rules
-The primary objective of utilizing the Apriori algorithm and association rules was to unravel hidden relationships between products and to gain insights into customer purchasing behavior and understand which products tend to be bought together. This approach allows GreenGrocer to offer a seamless and personalized shopping experience to our online customers. By deciphering the relationships between organic products often chosen together, I can provide tailored product recommendations and enhance the virtual shopping journey. These insights not only allow me to tailor recommendations but also deepened the comprehension of our customers' organic preferences, solidifying GreenGrocer's commitment to delivering quality and convenience.
+The primary objective of utilizing the Apriori algorithm and association rules was to unravel hidden relationships between products and to gain insights into customer purchasing behavior and understand which products tend to be bought together. This approach allows GreenGrocer to offer a seamless and personalized shopping experience to our online customers. By deciphering the relationships between organic products often chosen together, I can provide tailored product recommendations and enhance the virtual shopping journey. These insights not only allow me to tailor customer recommendations but also deepened the comprehension of our customers' organic preferences, solidifying GreenGrocer's commitment to delivering quality and convenience.
 
 ![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/1c743d7d-ef17-4152-8030-9c9bbf93071e)
 
@@ -76,7 +76,7 @@ In conclusion, by implementing these recommendations, GreenGrocer can enhance cu
 ** **
 ## Future Steps
 - Use Apriori and Association rule results to build a recommendation system.
-- With the right computational resources I would like to explore alternative ways to handle class imbalance and engineer more features.
+- Explore alternative ways to handle class imbalance and engineer more features.
 - Apply Deep Learning models to extract better insights from the data.
 
 ** **
