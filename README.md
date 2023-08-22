@@ -25,7 +25,8 @@ While organic items only account for 32% of the products in the dataset it had a
 
 Lastly, Products that are added to the cart initially are more likely to be reordered again compared to the ones added later. Customers tend to first order all the products they buy frequently and then look out for the new products available.
 
-![image](https://github.com/sclarkHOU/Organic_Market_Basket_Analysis/assets/56837718/df5a9e05-af07-4884-b01f-b9dfe961127a)
+![image](https://github.com/sclarkHOU/Organic-Market-Basket-Analysis/assets/56837718/0d080a01-c2a3-431f-862e-26be75ee2ac9)
+
 
 ** **
 ## Apriori & Association Rules
@@ -99,4 +100,4 @@ If you have any questions, please contact me:
 
 ├── Organic_Market_Basket_Analysis.ipynb
 
-├── README.m
+├── README.md
