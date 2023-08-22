@@ -26,8 +26,7 @@ The dataset comes from 3 million grocery orders from more than 200,000 Instacart
 
 #### Lastly, Products that are added to the cart initially are more likely to be reordered again compared to the ones added later. Customers tend to first order all the products they buy frequently and then look out for the new products available.
 
-![image](https://github.com/sclarkHOU/Organic-Market-Basket-Analysis/assets/56837718/0d080a01-c2a3-431f-862e-26be75ee2ac9)
-
+![image](https://github.com/sclarkHOU/Organic-Market-Basket-Analysis/assets/56837718/b9c21a23-52b2-418d-9616-e97cd0417dbc)
 
 ** **
 ## Apriori & Association Rules
