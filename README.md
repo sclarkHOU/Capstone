@@ -5,6 +5,8 @@
 ## Business Overview
 The organic grocery market is experiencing rapid growth, driven by increasing consumer awareness of health and sustainability. Today the global Organic food market is worth $176 billion and is estimated to grow at a CAGR of 12.1%, earning revenue of around $553 billion by the end of 2033.
 
+With increasing concerns about the use of pesticides, GMOs, and other harmful additives in conventional food products, more people are turning to organic food for a healthier and sustainable diets. 
+
 With the demand for organic products and online shopping on the rise, GreenGrocer wants to strategically position itself to tap into this expanding market by introducing an Organic Grocery Delivery Service. GreenGrocer wants to continue to elevate the customer experience, I have been tasked with finding key factors for predicting customer reorders to optimize marketing strategies and identify frequently purchased items for improved product recommendations and cross-selling opportunities for GreenGrocer. 
 
 ## Data Overview
