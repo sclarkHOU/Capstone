@@ -42,9 +42,9 @@ The Instacart dataset contains historical order information, including product d
 
 I started with a decision tree to understand the relationship between features but due to my imbalanced data I transitioned to XGBoost for improved predictive power. Lastly I utilized logistic regression to interpret and quantify the impact of features.
 
-Because of the imbalance in my data I not only wanted to identify positive instances but wanted to minimize instances where my model predicted a customer will reorder organic products but they do not. Leading to incorrect allocation of resources towards customers who are not likely to reorder organic products. I also wanted to minimize instances where my model suggested a customer does not reorder organic products but they do. Leading to missed opportunities to promote organic products to customers who are actually interested in them.
+Because of the imbalance in my data I not only wanted to identify positive instances of customers reordering organic products but wanted to minimize instances where my model suggested a customer will reorder organic products but dont, leading to incorrect allocation of resources. I also to minimize instances where my model suggested a customer does not reorder organic products but they do, leading to missed promotional opportunities.
 
-In a pursuit to find a balance between these two instances I used an F1-Score as my metric.
+In a pursuit to find a balance between these two instances I used an F1-Score as my metric. My XGBoost achieved an F1-Score of 84%
 
 - **Decision Tree**
   - Basline Model
@@ -78,9 +78,9 @@ In conclusion, by implementing these recommendations, GreenGrocer can enhance cu
 
 ** **
 ## Future Steps
-- Use Apriori and Association rule results to build a recommendation system.
-- Explore alternative ways to handle class imbalance and engineer more features.
+- Explore alternative ways to handle class imbalance and engineer more features to improve my models performance
 - Apply Deep Learning models to extract better insights from the data.
+- Use Association rule results to build a recommendation system to personalize the shopping experience for customers
 
 ** **
 ## For More Information
